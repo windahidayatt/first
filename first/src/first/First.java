@@ -21,7 +21,9 @@ public class First {
         System.out.println("winda cantik");
         int persen=100;
         System.out.println("hiro lucu" + persen);
+        //Andi
         
+        System.out.println("hiro lucu bangetttttttttttt");
     }
     
 }
