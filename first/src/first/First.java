@@ -17,7 +17,10 @@ public class First {
     public static void main(String[] args) {
         System.out.println("Andi ganteng");
         // TODO code application logic here
-        System.out.print("winda cantik");
+        System.out.println("winda cantik");
+        int persen=100;
+        System.out.println("hiro lucu" + persen);
+        
     }
     
 }
