@@ -15,6 +15,7 @@ public class First {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("Andi ganteng");
         // TODO code application logic here
         System.out.print("winda cantik");
     }
