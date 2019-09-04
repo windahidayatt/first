@@ -16,6 +16,7 @@ public class First {
      */
     public static void main(String[] args) {
         System.out.println("Andi ganteng");
+        System.out.println("Da emang ganteng");
         // TODO code application logic here
         System.out.print("winda cantik");
     }
